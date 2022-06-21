@@ -45,7 +45,7 @@ public class loginpagetest extends testbase {
 	@Test(priority=3)
 public void logintest() throws InterruptedException, IOException {
 		loginobj.login(prop.getProperty("username"),prop.getProperty("password"));
-		Thread.sleep(3000);
+		Thread.sleep(10000);
 	}
 		
 	//}
