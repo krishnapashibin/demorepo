@@ -1,0 +1,4 @@
+com\qa\pages\homepage.class
+com\qa\testbase\testbase.class
+com\qa\pages\loginpage.class
+com\qa\pages\addtocartpage.class
